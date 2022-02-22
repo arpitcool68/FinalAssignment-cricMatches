@@ -1,0 +1,27 @@
+#spring:
+# data:
+#   mongodb:
+#     database: news
+#     port: 27017
+#     host: mongo
+#server:
+# port: 8082
+#
+##spring:
+## data:
+##   mongodb:
+##     username: ${MONGO_USER}
+##     password: ${MONGO_PASSWORD}
+##     database: ${MONGO_DATABASE}
+##     port: ${MONGO_PORT}
+##     host: ${MONGO_HOST}
+##server:
+## port: 8082
+# servlet:
+#    context-path: /newsService
+# 
+#logging:
+#  level:
+#    org:
+#      mongodb:
+#        driver: ERROR
